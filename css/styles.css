@@ -1,0 +1,4 @@
+/* select all 'class="row"' elements and make them flexboxes */
+.row {
+    display: flex
+}
